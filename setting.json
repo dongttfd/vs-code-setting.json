@@ -1,0 +1,22 @@
+{
+    "workbench.colorTheme": "Monokai",
+    "vetur.format.options.tabSize": 4,
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_attributes": "auto",
+            "wrap_line_length": 160,
+
+        },
+        "prettyhtml": {
+            "printWidth": 160,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        },
+        "prettier": {
+            "singleQuote": true,
+            "trailingComma": "all"
+        }
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+}
