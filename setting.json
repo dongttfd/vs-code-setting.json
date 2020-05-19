@@ -13,7 +13,7 @@
     // "breadcrumbs.filePath": "on",
     "vetur.format.defaultFormatterOptions": {
         "js-beautify-html": {
-            "wrap_attributes": "auto",
+            "wrap_attributes": "force",
             "wrap_line_length": 160
         },
         "prettyhtml": {
