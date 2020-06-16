@@ -6,10 +6,10 @@
 - GitLens
 
 ## Html
-
+- HTML Snippets
 - Auto close tag
 - Auto Rename Tag
-
+- Auto Import
 
 ## CSS
 
@@ -19,6 +19,7 @@
 - Vetur
 - ESLint
 - Path Intellisense
+- Vuetify-vscode
 
 ## PHP / Laravel
 - DotENV
@@ -27,7 +28,7 @@
 - Laravel Goto Controller
 - Laravel Blade Snippets
 - laravel-blade
-- Laravel Snippets
+- phpfmt - PHP formater
 - Format HTML in PHP
 - php cs fixer
 - PHP IntelliSense
@@ -49,6 +50,9 @@
 - Jasmine code snippets
 - Debugger for Chrome
 
+## DevOp
+Docker
+YAML
 
 ## Others
 
