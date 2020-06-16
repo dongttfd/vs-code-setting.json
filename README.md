@@ -33,6 +33,8 @@
 - php cs fixer
 - PHP IntelliSense
 - PHP Namespace Resolver
+- PHP DocBlocker
+
 
 ## SQL
 
