@@ -39,4 +39,5 @@
     "php.validate.run": "onType",
     "php.validate.executablePath": "/usr/local/bin/php",
     "php.executablePath": "/usr/local/bin/php",
+    "namespaceResolver.sortAlphabetically": true,
 }
