@@ -28,7 +28,6 @@
         }
     },
     "vetur.format.defaultFormatter.html": "js-beautify-html",
-
     "vetur.validation.template": false,
     "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
     "php-cs-fixer.lastDownload": 1591589396106,
@@ -37,7 +36,21 @@
         "editor.defaultFormatter": "kokororin.vscode-phpfmt"
     },
     "php.validate.run": "onType",
-    "php.validate.executablePath": "/usr/local/bin/php",
-    "php.executablePath": "/usr/local/bin/php",
+    "php.validate.executablePath": "/usr/bin/php",
+    "php.executablePath": "/usr/bin/php",
     "namespaceResolver.sortAlphabetically": true,
+    "php.suggest.basic": false,
+    "php.validate.enable": false,
+    "emmet.excludeLanguages": [
+        "markdown",
+        "php"
+    ],
+    "phpfmt.passes": [
+        "IndentTernaryConditions",
+        "StripExtraCommaInArray",
+        "SpaceBetweenMethods",
+        "PSR2EmptyFunction",
+        "OrderAndRemoveUseClauses",
+        "NewLineBeforeReturn",
+    ]
 }
