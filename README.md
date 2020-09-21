@@ -47,6 +47,7 @@
 - Angular Follow Selector
 - TSLint
 - Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
+- Angular Language Service
 
 ## Jasmine Test
 
