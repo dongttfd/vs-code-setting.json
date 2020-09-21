@@ -46,6 +46,7 @@
 - Auto Import
 - Angular Follow Selector
 - TSLint
+- Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 
 ## Jasmine Test
 
