@@ -1,6 +1,4 @@
 {
-    "workbench.colorTheme": "Monokai",
-    "window.zoomLevel": 0,
     "scssFormatter.tabWidth": 4,
     "editor.minimap.enabled": true,
     "gitlens.advanced.messages": {
@@ -32,12 +30,12 @@
     "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
     "php-cs-fixer.lastDownload": 1591589396106,
     "editor.formatOnPaste": false,
+    "php.executablePath": "/usr/local/bin/php",
     "[php]": {
         "editor.defaultFormatter": "kokororin.vscode-phpfmt"
     },
     "php.validate.run": "onType",
-    "php.validate.executablePath": "/usr/bin/php",
-    "php.executablePath": "/usr/bin/php",
+    "php.validate.executablePath": "/usr/local/bin/php",
     "namespaceResolver.sortAlphabetically": true,
     "php.suggest.basic": false,
     "php.validate.enable": false,
@@ -52,5 +50,23 @@
         "PSR2EmptyFunction",
         "OrderAndRemoveUseClauses",
         "NewLineBeforeReturn",
-    ]
+    ],
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "dart.previewHotReloadOnSaveWatcher": true,
+    "dart.flutterHotRestartOnSave": false,
+    "dart.showInspectorNotificationsForWidgetErrors": false,
+    "liveshare.publishWorkspaceInfo": true,
+    "liveshare.featureSet": "insiders",
+    "workbench.editorAssociations": [
+        {
+            "viewType": "jupyter.notebook.ipynb",
+            "filenamePattern": "*.ipynb"
+        }
+    ],
+    "dart.debugExternalLibraries": true,
+    "dart.debugSdkLibraries": true,
+    "workbench.colorTheme": "Monokai",
+    "angular.experimental-ivy": true
 }
