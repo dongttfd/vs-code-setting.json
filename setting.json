@@ -1,3 +1,4 @@
+{
     "scssFormatter.tabWidth": 4,
     "editor.minimap.enabled": true,
     "gitlens.advanced.messages": {
