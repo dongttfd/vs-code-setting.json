@@ -19,7 +19,7 @@
 - Vetur
 - ESLint
 - Path Intellisense
-- Vuetify-vscode
+- Vuetify-vscode (only using for Vuetify)
 
 ## PHP / Laravel
 - DotENV
@@ -30,11 +30,9 @@
 - laravel-blade
 - phpfmt - PHP formater
 - Format HTML in PHP
-- php cs fixer
-- PHP IntelliSense
+- PHP Intelephense
 - PHP Namespace Resolver
 - PHP DocBlocker
-
 
 ## SQL
 
@@ -42,12 +40,11 @@
 
 
 ## TS / Angular 
-
-- Auto Import
 - Angular Follow Selector
-- TSLint
-- Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout
 - Angular Language Service
+- Auto Import
+- TSLint
+- Angular Snippets (Version 11)
 
 ## Jasmine Test
 
@@ -57,6 +54,9 @@
 ## DevOp
 Docker
 YAML
+
+## Dart & Flutter
+Flutter
 
 ## Others
 
