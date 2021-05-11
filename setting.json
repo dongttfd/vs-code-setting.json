@@ -1,4 +1,3 @@
-{
     "scssFormatter.tabWidth": 4,
     "editor.minimap.enabled": true,
     "gitlens.advanced.messages": {
@@ -27,10 +26,7 @@
     },
     "vetur.format.defaultFormatter.html": "js-beautify-html",
     "vetur.validation.template": false,
-    "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
-    "php-cs-fixer.lastDownload": 1591589396106,
     "editor.formatOnPaste": false,
-    "php.executablePath": "/usr/local/bin/php",
     "[php]": {
         "editor.defaultFormatter": "kokororin.vscode-phpfmt"
     },
@@ -64,9 +60,5 @@
             "viewType": "jupyter.notebook.ipynb",
             "filenamePattern": "*.ipynb"
         }
-    ],
-    "dart.debugExternalLibraries": true,
-    "dart.debugSdkLibraries": true,
-    "workbench.colorTheme": "Monokai",
-    "angular.experimental-ivy": true
+    ]
 }
