@@ -33,7 +33,6 @@
     },
     "php.validate.run": "onType",
     "php.validate.executablePath": "/usr/local/bin/php",
-    "namespaceResolver.sortAlphabetically": true,
     "php.suggest.basic": false,
     "php.validate.enable": false,
     "emmet.excludeLanguages": [
@@ -54,10 +53,14 @@
     "dart.previewHotReloadOnSaveWatcher": true,
     "dart.flutterHotRestartOnSave": false,
     "dart.showInspectorNotificationsForWidgetErrors": false,
+    "liveshare.publishWorkspaceInfo": true,
+    "liveshare.featureSet": "insiders",
     "workbench.editorAssociations": [
         {
             "viewType": "jupyter.notebook.ipynb",
             "filenamePattern": "*.ipynb"
         }
-    ]
+    ],
+    "angular.experimental-ivy": true,
+    "namespaceResolver.sortNatural": true
 }
