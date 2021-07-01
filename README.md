@@ -4,6 +4,8 @@
 
 - EditorConfig for VS Code
 - GitLens
+- Git Graph
+- Local History
 
 ## Html
 - HTML Snippets
