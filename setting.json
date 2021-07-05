@@ -29,8 +29,7 @@
     "vetur.validation.template": false,
     "editor.formatOnPaste": false,
     "[php]": {
-        "editor.defaultFormatter": "kokororin.vscode-phpfmt",
-        "editor.insertSpaces": true,
+        "editor.defaultFormatter": "kokororin.vscode-phpfmt"
     },
     "php.validate.run": "onType",
     "php.validate.executablePath": "/usr/local/bin/php",
