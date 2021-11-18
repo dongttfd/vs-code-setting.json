@@ -60,6 +60,13 @@ YAML
 ## Dart & Flutter
 Flutter
 
+## C# & .NET Core
+C# (C# for Visual Studio Code (powered by OmniSharp))
+.NET Core Test Explorer (Jun Han)
+.NET Core Tools (Jun Han)
+Visual Studio Keymap (Microsoft)
+
+
 ## Others
 
 Live Share // using pair coding online
