@@ -45,8 +45,9 @@
 - Angular Follow Selector
 - Angular Language Service
 - Auto Import
-- TSLint
-- Angular Snippets (Version 11)
+- TSLint (recommend for angular <= 11)
+- ESLint (recommend for angular >= 12)
+- Angular Snippets (Version X)
 
 ## Jasmine Test
 
