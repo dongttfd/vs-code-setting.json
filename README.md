@@ -1,4 +1,9 @@
-# My Visual Studio Code Plugin recommend
+# My Visual Studio Code Setting
+
+## Settup
+- **Setting:** coppy [setting.json](https://github.com/dongttfd/vs-code-setting.json/blob/master/setting.json) to your `.vscode/settings.json`
+- **Install Font**: If u want to make beatifull font to install [Fira Code](https://github.com/tonsky/FiraCode), if not you command line `"editor.fontFamily": ...` at your `.vscode/settings.json` to load default font.
+
 
 ## Base packages:
 - [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
