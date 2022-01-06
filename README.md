@@ -52,9 +52,10 @@
 - [Angular Snippets (Version X)](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2)
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
-## NestJS (TS, nodejs, express)
+## NestJS (TS, nodejs)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+- [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
 
 ## Auto Test (TypeScript)
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
