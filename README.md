@@ -53,7 +53,7 @@
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
 ## NestJS (TS, nodejs, express)
-- [ESLint (recommend for angular >= 12)](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
 ## Auto Test (TypeScript)
