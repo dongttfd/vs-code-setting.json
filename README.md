@@ -24,7 +24,7 @@
 - [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
 
 ## Vue / JS / TS Packages
-- [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur)
+- [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [*Vuetify-vscode*](https://marketplace.visualstudio.com/items?itemName=vuetifyjs.vuetify-vscode) // only using for Vuetify
